@@ -6,6 +6,7 @@ from equipment import Weapon, Armor
 from constants import CHANCE_TO_EFFECT_SKILL
 from typing import Optional, Any
 import random
+import pymorphy2
 
 
 class BaseUnit(ABC):
