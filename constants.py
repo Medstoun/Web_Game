@@ -1,0 +1,3 @@
+EQUIPMENT_FILE = 'data/equipment.json'
+CHANCE_TO_EFFECT_SKILL = 0.1
+STAMINA_PER_ROUND = 1.3
