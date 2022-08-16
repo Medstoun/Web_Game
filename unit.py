@@ -1,5 +1,4 @@
 from __future__ import annotations
-
 from abc import ABC, abstractmethod
 from classes import UnitClass
 from equipment import Weapon, Armor
